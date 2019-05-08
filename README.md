@@ -17,6 +17,10 @@ An awesome list of projects using BTC/Lightning/Liquid and more on embedded devi
 
 [LIGHTning, a Bitcoin-enabled moodlight!](https://www.youtube.com/watch?v=B7Pin_ZHooI)
 
+[Understanding Bitcoin: Core From Scratch](https://www.youtube.com/watch?v=40mdFIAEh4E&t=19951s)
+
+[Understanding Bitcoin: ABCore On Android](https://www.youtube.com/watch?v=40mdFIAEh4E&t=22010s)
+
 ## DIY hardware list
 [Raspberry Pi 3/3+](https://www.raspberrypi.org/)
 
