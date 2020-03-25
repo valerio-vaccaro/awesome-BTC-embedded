@@ -8,6 +8,7 @@ List of content:
 - [Video-guides](#video-guides)
 - [DIY hardware list](#diy-hardware-list)
 - [Commercial nodes](#commercial-nodes)
+- [Gadgets](#gadget)
 
 # Guides
 - [RaspiBolt](https://stadicus.github.io/RaspiBolt/), beginner’s Guide to ️Lightning️ on a Raspberry Pi.
@@ -36,6 +37,10 @@ List of content:
 - [Raspiblitz](https://github.com/rootzoll/raspiblitz)
 - [Lightning in a box](https://lightninginabox.co/product/lightning-in-a-box/)
 - [Casa Node](https://store.casa/lightning-node/)
+
+# Gadgets
+- [Pagami.io](https://github.com/valerio-vaccaro/pagami) Check your Bitcoin addresses, show first unused address and calculate your balance.
+- [Trentanove](https://github.com/valerio-vaccaro/trentanove) Create a BIP39 mnemonic on an embedded board.
 
 ## License
 
