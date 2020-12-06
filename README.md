@@ -9,7 +9,9 @@ List of content:
 - [DIY nodes hardware list](#diy-nodes-hardware-list)
 - [Mobile nodes](#mobile-nodes)
 - [Commercial nodes](#commercial-nodes)
+- [DIY Hardware wallets](#diy-hardware-wallets)
 - [Gadgets](#gadget)
+- [Embedded libs](#embedded-libs)
 
 # Guides
 - [RaspiBolt](https://stadicus.github.io/RaspiBolt/), beginner’s Guide to ️Lightning️ on a Raspberry Pi.
