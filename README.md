@@ -6,7 +6,8 @@ A curated list of projects using BTC/Lightning/Liquid and more on embedded devic
 List of content:
 - [Guides](#guides)
 - [Video-guides](#video-guides)
-- [DIY hardware list](#diy-hardware-list)
+- [DIY nodes hardware list](#diy-nodes-hardware-list)
+- [Mobile nodes](#mobile-nodes)
 - [Commercial nodes](#commercial-nodes)
 - [Gadgets](#gadget)
 
@@ -23,13 +24,13 @@ List of content:
 - [Understanding Bitcoin: Core From Scratch](https://www.youtube.com/watch?v=40mdFIAEh4E&t=19951s)
 - [Understanding Bitcoin: ABCore On Android](https://www.youtube.com/watch?v=40mdFIAEh4E&t=22010s)
 
-# DIY hardware list
+# DIY nodes hardware list
 - [Raspberry Pi 3/4](https://www.raspberrypi.org/)
 - [Odroid-HC2](https://www.hardkernel.com/shop/odroid-hc2-home-cloud-two/)
 - [Orange Pi one](http://www.orangepi.org/orangepione/)
 - [Pine64](https://www.pine64.org/)
 
-# Mobiles
+# Mobiles nodes
 - [Android ABCore](https://github.com/greenaddress/abcore)
 
 # Commercial nodes
@@ -38,9 +39,20 @@ List of content:
 - [Lightning in a box](https://lightninginabox.co/product/lightning-in-a-box/)
 - [Casa Node](https://store.casa/lightning-node/)
 
+# DIY Hardware wallets
+- [Bowser Bitcoin hardware wallet](https://github.com/arcbtc/bowser-bitcoin-hardware-wallet) based on M5Stack
+- [PiTrezor](http://www.pitrezor.com/2018/02/pitrezor-homemade-trezor-bitcoin-wallet.html) based on Raspberry Pi Zero
+- [Specter-DIY](https://github.com/cryptoadvance/specter-diy) based on STM32
+
 # Gadgets
 - [Pagami.io](https://github.com/valerio-vaccaro/pagami) Check your Bitcoin addresses, show first unused address and calculate your balance.
 - [Trentanove](https://github.com/valerio-vaccaro/trentanove) Create a BIP39 mnemonic on an embedded board.
+
+# Embedded libs
+- [libwally](https://github.com/diybitcoinhardware/libwally-embedded)
+- [ubitcoin](https://github.com/micro-bitcoin/uBitcoin) C++ Bitcoin library for 32-bit microcontrollers. The library supports Arduino IDE, ARM mbed and bare metal.
+- [modtrezorcrypto](https://github.com/trezor/trezor-firmware/tree/master/core/embed/extmod/modtrezorcrypto) Trezor lib bindings for micro python
+- [stm32f3-rust-bitcoin](https://github.com/justinmoon/stm32f3-rust-bitcoin) rust-bitcoin for embedded platform
 
 ## License
 
