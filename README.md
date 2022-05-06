@@ -46,6 +46,7 @@ List of content:
 - [PiTrezor](http://www.pitrezor.com/2018/02/pitrezor-homemade-trezor-bitcoin-wallet.html) based on Raspberry Pi Zero.
 - [Specter-DIY](https://github.com/cryptoadvance/specter-diy) based on STM32.
 - [Jade](https://github.com/Blockstream/Jade) based on ESP32.
+- [Jade Personal Pinserver](https://github.com/valerio-vaccaro/raspberrypi_pinserver) based on raspberry pi zero.
 - [SeedSigner](https://github.com/SeedSigner/seedsigner) based on Raspberry pi zero.
 - [Krux](https://github.com/selfcustody/krux) based on Risc-V board.
 - [SFYL wallet](https://sfyl.info/) first wifi based wallet with whitepaper embedded.
