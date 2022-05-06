@@ -42,13 +42,30 @@ List of content:
 - [Casa Node](https://store.casa/lightning-node/)
 
 # DIY Hardware wallets
-- [Bowser Bitcoin hardware wallet](https://github.com/arcbtc/bowser-bitcoin-hardware-wallet) based on M5Stack
-- [PiTrezor](http://www.pitrezor.com/2018/02/pitrezor-homemade-trezor-bitcoin-wallet.html) based on Raspberry Pi Zero
-- [Specter-DIY](https://github.com/cryptoadvance/specter-diy) based on STM32
+- [Bowser Bitcoin hardware wallet](https://github.com/arcbtc/bowser-bitcoin-hardware-wallet) based on M5Stack.
+- [PiTrezor](http://www.pitrezor.com/2018/02/pitrezor-homemade-trezor-bitcoin-wallet.html) based on Raspberry Pi Zero.
+- [Specter-DIY](https://github.com/cryptoadvance/specter-diy) based on STM32.
+- [Jade](https://github.com/Blockstream/Jade) based on ESP32.
+- [SeedSigner](https://github.com/SeedSigner/seedsigner) based on Raspberry pi zero.
+- [Krux](https://github.com/selfcustody/krux) based on Risc-V board.
+- [SFYL wallet](https://sfyl.info/) first wifi based wallet with whitepaper embedded.
 
+# LNURL
+- [LNUrlPos](https://github.com/arcbtc/LNURLPoS) based on ESP32
+
+# Mesh networks/tx broadcaster/...
+- [LoraCaster](https://github.com/valerio-vaccaro/LoraCaster) broadcast your bitcoin transactions via LoraWan.
+- [BitSMS](https://github.com/valerio-vaccaro/BitSMS) broadcast your bitcoin transactions via SMS.
+- [disaster.share](https://github.com/valerio-vaccaro/disaster.share) broadcast your bitcoin transactions via Lora mesh.
+- [meshtastic.shar](https://github.com/valerio-vaccaro/meshtastic.share)  broadcast your bitcoin transactions via Lora mesh (TBD).
+- [Reticulum](https://github.com/markqvist/Reticulum) sync node via Reticulum (TBD).
+ 
 # Gadgets
 - [Pagami.io](https://github.com/valerio-vaccaro/pagami) Check your Bitcoin addresses, show first unused address and calculate your balance.
 - [Trentanove](https://github.com/valerio-vaccaro/trentanove) Create a BIP39 mnemonic on an embedded board.
+- [Han Solo](https://github.com/valerio-vaccaro/HAN) an ESP32 based solominer.
+- [M5-bitclock](https://github.com/smolting/m5-bitclock) bitcoin clock using m5 core ink board.
+- [Bip85Calc](https://github.com/valerio-vaccaro/Bip85Calc) calculate bip85 mnemonics using ESP32.
 
 # Embedded libs
 - [libwally](https://github.com/diybitcoinhardware/libwally-embedded)
