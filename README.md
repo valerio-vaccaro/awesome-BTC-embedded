@@ -10,6 +10,7 @@ List of content:
 - [Mobile nodes](#mobile-nodes)
 - [Commercial nodes](#commercial-nodes)
 - [DIY Hardware wallets](#diy-hardware-wallets)
+- [Miners](#miners)
 - [Gadgets](#gadget)
 - [Embedded libs](#embedded-libs)
 
@@ -50,6 +51,13 @@ List of content:
 - [SeedSigner](https://github.com/SeedSigner/seedsigner) based on Raspberry pi zero.
 - [Krux](https://github.com/selfcustody/krux) based on Risc-V board.
 - [SFYL wallet](https://sfyl.info/) first wifi based wallet with whitepaper embedded.
+- [DIY Jade](https://blockstream.github.io/jadediyflasher/) flash Jade firmware on DIY boards.
+
+# Miners
+- [HAN SOLOminer](https://github.com/valerio-vaccaro/HAN) an ESP32 based solominer.
+- [Nerdminer](https://github.com/BitMaker-hub/NerdMiner_v2) HAN SOLOminer clone with better graphics and improvements.
+- [Jademiner](https://jademiner.blockstream.com/) mining webpage for Jade HWW.
+- [Jademiner firmware](https://jademiner.blockstream.com/upgrade/fwupgrade.html) update your Jade for mining.
 
 # LNURL
 - [LNUrlPos](https://github.com/arcbtc/LNURLPoS) based on ESP32
@@ -64,7 +72,6 @@ List of content:
 # Gadgets
 - [Pagami.io](https://github.com/valerio-vaccaro/pagami) Check your Bitcoin addresses, show first unused address and calculate your balance.
 - [Trentanove](https://github.com/valerio-vaccaro/trentanove) Create a BIP39 mnemonic on an embedded board.
-- [Han Solo](https://github.com/valerio-vaccaro/HAN) an ESP32 based solominer.
 - [M5-bitclock](https://github.com/smolting/m5-bitclock) bitcoin clock using m5 core ink board.
 - [Bip85Calc](https://github.com/valerio-vaccaro/Bip85Calc) calculate bip85 mnemonics using ESP32.
 
